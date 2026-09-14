@@ -17,6 +17,8 @@ export default function handler(req, res) {
     "se questo mese non hai fatto la sub da Nj ti viene la febbre a 39, puoi rimediare entro oggi... se l'hai fatta la macumba oggi non ti colpirá",
     "Perdi tutti i game oggi, ahahhahahahha",
     "Tuo padre si incazza con te oggi, guarda il lato positivo tu ce l'hai almeno..."
+    "perderà 4 ranked di fila"
+    "verrà inseguito/a da un cinghiale"
   ];
 
   const scelta = profezie[Math.floor(Math.random() * profezie.length)];
